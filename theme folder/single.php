@@ -1,4 +1,6 @@
- /* TO BE ADDED AFTER THE_CONTENT();  */
+ /* TO BE ADDED AFTER 
+php if( !empty( $review_position ) && ( $review_position == 'bottom' ||  $review_position == 'both' ) ) tie_get_review('review-bottom'); ?
+ */
 
 <h3>Players</h3>
 			 
